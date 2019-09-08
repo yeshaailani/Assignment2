@@ -1,5 +1,5 @@
 # Assignment2
- _CS648: Introduction _HTML_
+ _CS648: Introduction HTML_
  
 # Technologies
  _1. HTML_
